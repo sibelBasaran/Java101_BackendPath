@@ -5,4 +5,3 @@ public class deneme {
         System.out.println("hello");
     }
 }
-//orada misin
